@@ -27,7 +27,7 @@
 
 #### Clone
 
-- Clone this repo with url `https://github.com/Aakrut/instagram-mern`
+- Clone this repo with url `https://github.com/VenkataSriSaiSuryaMandava/Instagram-MernStack-Project.git`
 
 ##### Setup
 
